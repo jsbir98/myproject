@@ -520,6 +520,26 @@
             </div>
         </div>
     </div>
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel1">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="arsh">
+                   arshdeep Singh
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <a class="btn btn-danger btn-icon-split" id="openModelByButtonClickUsingjQuery">
         <span class="icon text-white-50">
             <i class="fas fa-check"></i>
@@ -535,25 +555,26 @@
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin-2.min.js"></script>
-   <script src="bootbox/bootbox.js"></script>
-   <script>
-       $(document).ready(function () {
-           $("#btnbootbox").click(function () {
-               bootbox.alert("welcome ");
-               bootbox.alert({
-                   message: "This is an alert with a callback!",
-                   callback: function () {
-                       console.log('This was logged in the callback!');
-                   }
-               })
-           });
-       });
-   </script>
+    <script src="bootbox/bootbox.js"></script>
     <script>
         $(document).ready(function () {
-            $( sr"#openModelByButtonClickUsingjQuery").click(function () {
+            $("#btnbootbox").click(function () {
+                bootbox.alert("welcome ");
+                bootbox.alert({
+                    message: "This is an alert with a callback!",
+                    callback: function () {
+                        console.log('This was logged in the callback!');
+                    }
+                })
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $("#openModelByButtonClickUsingjQuery").click(function () {
                 $("#logoutModal").modal();
             });
+
             //Get Ajax Call
             $(".getAjaxCall").click(function () {
                 alert("Get Ajax Call Fired");
@@ -567,8 +588,10 @@
                     cache: false,
                     success: function (data) {
                         if (data.ResponseCode == 200) {
-                            $("#response-message").html(data.ResponseMessage);
-                            $("#response").html(data.Response);
+
+                            $("#exampleModalLabel1").html(data.ResponseMessage);
+                            $("#arsh").html(data.Response);
+                            $("#exampleModal").modal();
                         }
                     },
                     error: function (xhr) {
@@ -655,7 +678,7 @@
         });
 
 
-            //
+                //
     </script>
 </body>
 
