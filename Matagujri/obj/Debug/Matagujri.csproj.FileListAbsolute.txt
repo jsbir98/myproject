@@ -1,0 +1,124 @@
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Matagujri.dll.config
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Matagujri.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Matagujri.pdb
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\csc.exe
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\csc.exe.config
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\csc.rsp
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\csi.exe
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\csi.rsp
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.AppContext.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.Collections.Immutable.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.IO.FileSystem.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\System.Reflection.Metadata.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\vbc.exe
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\vbc.exe.config
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\vbc.rsp
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\VBCSCompiler.exe
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\roslyn\VBCSCompiler.exe.config
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Antlr3.Runtime.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Microsoft.Web.Infrastructure.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Newtonsoft.Json.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Net.Http.Formatting.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Helpers.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Http.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Http.WebHost.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Mvc.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Optimization.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Razor.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Deployment.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Razor.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\WebGrease.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Newtonsoft.Json.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Net.Http.Formatting.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Helpers.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Http.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Http.WebHost.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Mvc.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Optimization.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.Razor.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Deployment.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Razor.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Antlr3.Runtime.pdb
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csprojAssemblyReference.cache
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csproj.CoreCompileInputs.cache
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csproj.CopyComplete
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\obj\Debug\Matagujri.dll
+D:\Github\Add existing repo\Matagujri-Training\Matagujri\obj\Debug\Matagujri.pdb
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Matagujri.dll.config
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Matagujri.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Matagujri.pdb
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\csc.exe
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\csc.exe.config
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\csc.rsp
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\csi.exe
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\csi.rsp
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.AppContext.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\vbc.exe
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\vbc.exe.config
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\vbc.rsp
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\VBCSCompiler.exe
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Antlr3.Runtime.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Newtonsoft.Json.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Net.Http.Formatting.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Helpers.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Http.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Http.WebHost.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Mvc.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Optimization.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Razor.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Razor.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\WebGrease.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Newtonsoft.Json.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Net.Http.Formatting.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Helpers.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Http.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Http.WebHost.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Mvc.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Optimization.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.Razor.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\System.Web.WebPages.Razor.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Antlr3.Runtime.pdb
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\obj\Debug\Matagujri.csproj.CopyComplete
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\obj\Debug\Matagujri.dll
+C:\Users\User-PC\Documents\GitHub\Matagujri-Training\Matagujri\obj\Debug\Matagujri.pdb
